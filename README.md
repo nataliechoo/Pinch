@@ -1,6 +1,7 @@
 # Pinch
 An iOS app made with Swift! Utilizes natural gestures and animations to display image(s) at custom specs decided by the user. 
 
+
 Users can:
 
 Long press on the circle icon to reveal a bar that details the image's scale and offsets:
