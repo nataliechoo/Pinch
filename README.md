@@ -9,10 +9,7 @@ Long press on the circle icon to reveal a bar that details the image's scale and
 Drag their finger on the screen to move the image around:
 <img width="430" alt="Screen Shot 2022-08-03 at 5 11 42 PM" src="https://user-images.githubusercontent.com/83897877/182736725-7faf864b-1076-4e85-8660-ac408887c62e.png">
 
-Double tap or use two fingers to zoom in/out:
-<img width="423" alt="Screen Shot 2022-08-03 at 5 11 16 PM" src="https://user-images.githubusercontent.com/83897877/182736761-8e56f19b-36b2-4e75-b820-41e09c5fb289.png">
-
-Use a control panel to zoom in/out or reset the image state:
+Double tap, use two fingers gestures, or use the control panel to zoom in/out or reset the image state:
 <img width="430" alt="Screen Shot 2022-08-03 at 5 11 42 PM" src="https://user-images.githubusercontent.com/83897877/182736779-97e77244-e2d2-4b9b-be4f-67e28185c835.png">
 
 Click the handle on the side of the screen to reveal other image(s) to switch to:
